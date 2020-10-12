@@ -1,16 +1,14 @@
-### Hi there 👋
+# About me | 关于我
+I'm Ross, a passionate front-end developer who enjoys exploring and implementing bleeding-edge web technologies. 
 
-<!--
-**RRResident/RRResident** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+嗨，我是罗毅，一个对网页开发很有热情的前端工程师。我喜欢学习和使用尖端网页技术
+### Things I like | 我喜欢的东西
+- Front-end development ｜ 前端开发
+- Video games ｜ 电子游戏
+- Cooking ｜ 厨艺
+- Collecting Zelda games | 收藏塞尔达传说游戏
+- My son ｜ 我儿子
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Things I don't like | 我不喜欢的东西
+- Internet Explorer | IE
+- Durian ｜ 榴莲
