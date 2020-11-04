@@ -7,7 +7,7 @@ I'm Ross, a passionate front-end developer who enjoys exploring and implementing
 - Video games ｜ 电子游戏
 - Cooking ｜ 厨艺
 - Collecting Zelda games | 收藏塞尔达传说游戏
-- My son ｜ 我儿子
+- My sons ｜ 我儿子们
 
 ### Things I don't like | 我不喜欢的东西
 - Internet Explorer | IE
