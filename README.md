@@ -1,2 +1,18 @@
-# About me | 关于我
-I'm Ross, a passionate front-end developer who enjoys exploring and implementing bleeding-edge web technologies.
+```js
+const me = {
+  name: 'Ross',
+  address: 'Essex, UK',
+  job: {
+    title: 'Web Engineer',
+    company: 'LUSH Digital'
+  },
+  languages: ['en', 'zh'],
+  hobbies: [
+    'cooking',
+    'video games',
+    'eating yummy food',
+    'boxing',
+    'learning more web dev stuff'
+  ]
+}
+```
