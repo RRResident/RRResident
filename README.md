@@ -4,7 +4,8 @@ const me = {
   address: 'Essex, UK',
   job: {
     title: 'Web Engineer',
-    company: 'LUSH Digital'
+    company: 'LUSH Digital',
+    technologies: ['JavaScript', 'React', 'Next', 'NodeJS', 'GraphQL', 'Jest', 'Firebase']
   },
   languages: ['en', 'zh'],
   hobbies: [
