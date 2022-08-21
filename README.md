@@ -5,7 +5,7 @@ const me = {
   job: {
     title: 'Web Engineer',
     company: 'LUSH Digital',
-    technologies: ['JavaScript', 'React', 'Next', 'NodeJS', 'GraphQL', 'Jest', 'Firebase']
+    technologies: ['JavaScript', 'TypeScript', 'React', 'Next', 'NodeJS', 'GraphQL', 'Jest', 'Firebase']
   },
   languages: ['en', 'zh'],
   hobbies: [
@@ -13,7 +13,9 @@ const me = {
     'video games',
     'eating yummy food',
     'boxing',
-    'learning more web dev stuff'
+    'learning more web dev stuff',
+    'blender',
+    'three js'
   ]
 }
 ```
