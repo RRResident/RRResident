@@ -1,10 +1,8 @@
 ```js
 const me = {
   name: 'Ross',
-  address: 'Essex, UK',
   job: {
     title: 'Web Engineer',
-    company: 'LUSH Digital',
     technologies: ['JavaScript', 'TypeScript', 'React', 'Next', 'NodeJS', 'GraphQL', 'Jest', 'Firebase']
   },
   languages: ['en', 'zh'],
