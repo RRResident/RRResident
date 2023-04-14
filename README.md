@@ -12,8 +12,6 @@ const me = {
     'eating yummy food',
     'boxing',
     'learning more web dev stuff',
-    'blender',
-    'three js'
   ]
 }
 ```
