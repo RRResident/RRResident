@@ -1,17 +1,2 @@
-```js
-const me = {
-  name: 'Ross',
-  job: {
-    title: 'Web Engineer',
-    technologies: ['JavaScript', 'TypeScript', 'React', 'Next', 'NodeJS', 'GraphQL', 'Jest', 'Firebase']
-  },
-  languages: ['en', 'zh'],
-  hobbies: [
-    'cooking',
-    'video games',
-    'eating yummy food',
-    'boxing',
-    'learning more web dev stuff',
-  ]
-}
-```
+Hello, I'm Ross, a web engineer.
+你好，我叫罗毅，我是一个网页工程师。
